@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Susana
 #### I am a Junior Fullstack Developer
-![I am a Junior Fullstack Developer](https://github.com/SusannaBH/SusannaBH/assets/118167587/3d3cd1dd-8195-496a-9656-ecde64908153)
+![Blue Simple Modern Welcome To Our Gallery Email Header](https://github.com/SusannaBH/SusannaBH/assets/118167587/feaa9364-e431-4262-8722-1a9a70365fe0)
 
 Based in Barcelona and am a growing web developer. I want to apply and improve my skills within a dynamic professional environment. My main focus revolves around creating web applications. Driven by a dedication to continuous learning, I am prepared to contribute to collaborative teams and advance the field of web development.
 
