@@ -14,10 +14,9 @@ ____
 
 | Frontend    | Backend     | FullStack    | Databases  | Softwares |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=visual%20studio%20code&logoColor=black&labelColor=%23F7DF1E) | ![Static Badge](https://img.shields.io/badge/java?style=for-the-badge&logoColor=%23FF0000) | ![Static Badge](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white) | ![Static Badge](https://img.shields.io/badge/mySQL-lightblue?style=for-the-badge&logo=mysql&logoColor=black) | ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=%23F05032) |
-| ![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white) | ![Static Badge](https://img.shields.io/badge/kotlin?style=for-the-badge&logo=kotlin&logoColor=%237F52FF)
-| ![Static Badge](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=white) |
-| ![Static Badge](https://img.shields.io/badge/Styled--Components-%23DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white) |||| ![Static Badge](https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=%23007ACC) |
+| ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23F7DF1E) | ![Static Badge](https://img.shields.io/badge/Springboot-%236DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white&labelColor=%236DB33F) | ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Static Badge](https://img.shields.io/badge/mySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=black) | ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=%23F05032) |
+| ![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white) | ![Static Badge](https://img.shields.io/badge/kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=%237F52FF) | | | ![Static Badge](https://img.shields.io/badge/VS_Code-%23007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=%23007ACC) |
+|![Static Badge](https://img.shields.io/badge/Styled--Components-%23DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)|||| ![Static Badge](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=white) |
   
 ____
 
