@@ -20,7 +20,8 @@ ____
   
 ____
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SusannaBH)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/susana-bergaz-hernandez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/susanna2n/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg' alt='microsoftoutlook' height='40'>](susannabergaz@hotmail.com)  
+[![image](https://github.com/SusannaBH/SusannaBH/assets/118167587/129611ea-bf0e-4824-8aa4-9da0e11b04a5)](https://github.com/SusannaBH)  [![image](https://github.com/SusannaBH/SusannaBH/assets/118167587/688457da-1f2c-4dc0-b8f9-02d1fe320c3c)](https://www.linkedin.com/in/susana-bergaz-hernandez/)  [![image](https://github.com/SusannaBH/SusannaBH/assets/118167587/6f572920-7059-4e70-a88b-c84c7846afbc)
+](https://www.instagram.com/susanna2n/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SusannaBH)](https://github.com/ryo-ma/github-profile-trophy)
 
